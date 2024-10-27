@@ -1,4 +1,5 @@
-# Padrões de Projeto e Multimacadas
+**Autor:** Maria Eduarda Alexandre Lustre
+# Padrões de Projeto e Multimacadas 
 
 ## 1. Melhoria de Tratamento de Erros
 
